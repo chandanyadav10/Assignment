@@ -64,8 +64,8 @@ JWT_SECRET=your_jwt_secret_key
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-github-repo-url>
-cd project-folder
+git clone https://github.com/chandanyadav10/Assignment.git
+cd Assignment
 npm install
 npm start
 
