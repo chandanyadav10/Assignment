@@ -39,7 +39,7 @@ src/
 
 ├── middleware/
 
-├── modelss/
+├── models/
 
 ├── routes/
 
